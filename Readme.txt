@@ -1,3 +1,8 @@
-hola bienvenido al repositorio 1
-aqui se trabajará la bitácora del proyecto PAQUEADERO
+INSTITUTO NELSON TORRES
+
+
+SANTIAGO SOLIS
+
+
+esta es la version estable del proyecto
 
